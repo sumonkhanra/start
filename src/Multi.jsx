@@ -25,7 +25,7 @@ const Multi=()=>{
               borderRadius: '0px',
             },
           }}
-          // showCheckbox
+           showCheckbox
           isObject={false}
           options={options}
           selectedValues={selectedValues}
